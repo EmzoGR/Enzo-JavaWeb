@@ -3,6 +3,7 @@ package com.examen.bean;
 public class Afiliado {
 	
 	//hi brothers
+	//desde git hub brou
 	private int idAfiliado;
 	private int funcionario;
 	private String nomFun;
