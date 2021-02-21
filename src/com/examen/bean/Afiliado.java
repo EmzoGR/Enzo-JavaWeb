@@ -3,7 +3,12 @@ package com.examen.bean;
 public class Afiliado {
 	
 	//hi brothers
+//<<<<<<< HEAD=======>>>>>>> branch 'master' of https://github.com/EmzoGR/Enzo-JavaWeb.git
 	//probando
+
+	//desde git hub brou
+
+	//desde desktop
 	private int idAfiliado;
 	private int funcionario;
 	private String nomFun;
