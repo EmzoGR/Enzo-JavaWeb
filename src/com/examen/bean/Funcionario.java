@@ -5,6 +5,7 @@ public class Funcionario {
 	private int ID_FUNCIONARIO;
 	private String nombre;
 	//funcionario
+	//desde desktop
 	
 	
 	
