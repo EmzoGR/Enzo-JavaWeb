@@ -1,5 +1,6 @@
 # Enzo-JavaWeb
 Eclipse y Java
+Instalar el driver para la correcta conexión de BD.
 
 By:Enzo Gonzales
 -- Utilizar la BD MySQL.
