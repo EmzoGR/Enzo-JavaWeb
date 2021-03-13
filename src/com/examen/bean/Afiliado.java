@@ -1,5 +1,5 @@
 package com.examen.bean;
-
+//enzito
 public class Afiliado {
 	
 	//hi brothers
